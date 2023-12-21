@@ -36,11 +36,11 @@ comentario
 // let division =  numeroUno / numeroDos;
 // console.log(suma, resta, multiplicacion, division);
 
-// let saludo = "hola";
-// let nombre = "salva";
+let saludo = "hola";
+let nombre = "salva";
 
-// let saludoCompleto = saludo + " " + nombre;
-// console.log(saludoCompleto);
+let saludoCompleto = saludo + " " + nombre;
+console.log(saludoCompleto);
 
-let nombre = prompt("Ingrese el nombre");
-alert(nombre);
+// let nombre = prompt("Ingrese el nombre");
+// alert(nombre);
