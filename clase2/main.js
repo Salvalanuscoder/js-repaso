@@ -90,4 +90,4 @@ if (nombre != "" && (nombre === "SALVI" || nombre === "salvi")){
     alert("bienvenida Salvi");
 }else{
     alert("Nombre incorrecto");
-}
+} 
